@@ -1,0 +1,18 @@
+.activate {color: red}
+.active {color: red;}
+.breakAll {
+    word-break: break-all;
+  }
+.narrow {
+    padding: 5px;
+    border: 1px solid;
+    display: table;
+    max-width: 100%;}
+   
+    .li {
+      padding: 5px;
+      list-style-type: none;
+    }
+    .tabs {
+      padding-bottom: 16px;
+      padding-top: 5px;}
